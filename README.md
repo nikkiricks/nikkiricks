@@ -8,6 +8,8 @@ I'm currently working on an [anti-racism site](https://github.com/nikkiricks/ant
 
 ## Past Projects
 
+Some of my favorite projects I've working on was with hardware. You can see my [intro repo to NodeBots](https://github.com/nikkiricks/Node_Bots) and a ["phone" with NodeBots](https://github.com/nikkiricks/Sloane-Phone-Node) and this is a [repo](https://github.com/nikkiricks/Sloane-Phone-Arduino) I created using Arduino IDE.
+
 ### Social Media
 
 [Twitter](https://twitter.com/nikkiricks) |
