@@ -1,6 +1,6 @@
 # Oh heeeyyyyyyyy there
 
-Hi! Welcome! I'm Nikki. I started coding in 2019, went to General Assembly's Software Engineering Immersive and now am a software engineer at Vanguard in Melbourne Australia.
+Hi! Welcome! I'm Nikki. I started coding in 2019, went to General Assembly's Software Engineering Immersive and now am an Apprentice Developer at Envato in Melbourne Australia.
 
 ## Current Project
 
