@@ -13,8 +13,7 @@ Some of my favorite projects I've working on was with hardware. You can see my [
 ### Social Media
 
 [Twitter](https://twitter.com/nikkiricks) |
-[LinkedIn](https://www.linkedin.com/in/nikki-ricks/) |
-[Instagram](https://www.instagram.com/nikki.ricks/)
+[LinkedIn](https://www.linkedin.com/in/nikki-ricks/)
 
 ### Writing
 
