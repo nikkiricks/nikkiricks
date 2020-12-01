@@ -1,14 +1,16 @@
 # Oh heeeyyyyyyyy there
 
-Hi! Welcome! I'm Nikki. I started coding in 2019, went to General Assembly's Software Engineering Immersive and now am an Apprentice Developer at Envato in Melbourne Australia.
+Hi! Welcome! I'm Nikki. I'm an Apprentice Developer at Envato in Melbourne Australia. I started learning how to code in early 2019 and then decided to go to General Assembly's Software Engineering Immersive at the end of 2019.
 
 ## Current Project
 
-I'm currently working on an [anti-racism site](https://github.com/nikkiricks/anti-racism-work) where I track my learning, resources, actions, and donations. This work is really important to me as an intersectional feminist. Eventually I want to create a MERN app but as of July 2020 I've been adding my daily work in HTML.
+
 
 ## Past Projects
 
-Some of my favorite projects I've working on was with hardware. You can see my [intro repo to NodeBots](https://github.com/nikkiricks/Node_Bots) and a ["phone" with NodeBots](https://github.com/nikkiricks/Sloane-Phone-Node) and this is a [repo](https://github.com/nikkiricks/Sloane-Phone-Arduino) I created using Arduino IDE.
+2020 - I created a MERN stack [anti-racism site](https://github.com/nikkiricks/anti-racism-work) where I track my learning, resources, actions, and donations. This work is really important to me as an intersectional feminist.
+
+2019 - Some of my favorite projects I've working on was with hardware. You can see my [intro repo to NodeBots](https://github.com/nikkiricks/Node_Bots) and a ["phone" with NodeBots](https://github.com/nikkiricks/Sloane-Phone-Node) and this is a [repo](https://github.com/nikkiricks/Sloane-Phone-Arduino) I created using Arduino IDE.
 
 ### Social Media
 
