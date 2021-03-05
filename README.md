@@ -20,9 +20,9 @@ Existing
 ### Writing
 
 If you're interested, in reading some of my technical articles:
--[MERN Part I: Building RESTful APIs with Node.js and Express](https://medium.com/weekly-webtips/building-restful-apis-with-node-js-and-express-a9f648219f5b)
--[MERN Part II: Building the frontend of a RESTful API with React](https://nikki-ricks.medium.com/mern-part-ii-building-the-frontend-of-a-restful-api-with-react-d10f11a9f19c)
--[How to use git add, commit and push in VS Code and Command-line](https://nikki-ricks.medium.com/how-to-use-git-add-commit-and-push-in-vs-code-and-command-line-35c0e8c47b62)
+- [MERN Part I: Building RESTful APIs with Node.js and Express](https://medium.com/weekly-webtips/building-restful-apis-with-node-js-and-express-a9f648219f5b)
+- [MERN Part II: Building the frontend of a RESTful API with React](https://nikki-ricks.medium.com/mern-part-ii-building-the-frontend-of-a-restful-api-with-react-d10f11a9f19c)
+- [How to use git add, commit and push in VS Code and Command-line](https://nikki-ricks.medium.com/how-to-use-git-add-commit-and-push-in-vs-code-and-command-line-35c0e8c47b62)
 
 Or some articles about my experience here's: 
 - [A Recap of My Software Engineering Immersive Experience at General Assembly — in 12 Tweets](https://medium.com/dev-genius/a-recap-of-my-software-engineering-immersive-experience-at-general-assembly-in-12-tweets-d750fa95c766) 
