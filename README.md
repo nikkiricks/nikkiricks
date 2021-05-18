@@ -4,7 +4,7 @@ Hi! Welcome! I'm Nikki. I'm currently an Apprentice Developer at Envato in Melbo
 
 ## Current Project
 
-Existing
+2021 - I created a Discord Bot for my friends on an personal server.
 
 ## Past Projects
 
