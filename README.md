@@ -1,6 +1,6 @@
 # Oh heeeyyyyyyyy there
 
-Hi! Welcome! I'm Nikki. I'm currently an Apprentice Developer at Envato in Melbourne Australia. I started learning how to code in early 2019 and then decided to attend General Assembly's Software Engineering Immersive at the end of 2019.
+Hi! Welcome! I'm Nikki. I'm a Software Engineer at Envato in Melbourne Australia. I started learning how to code in early 2019 and then decided to attend General Assembly's Software Engineering Immersive at the end of 2019.
 
 ## Current Project
 
