@@ -1,12 +1,14 @@
 # Oh heeeyyyyyyyy there
 
-Hi! Welcome! I'm Nikki. I'm a Software Engineer at Envato in Melbourne Australia. I started learning how to code in early 2019 and then decided to attend General Assembly's Software Engineering Immersive at the end of 2019.
+Hi! Welcome! I'm Nikki. I'm a Software Engineer at Dutchie in Portland, Oregon. I started learning how to code in early 2019 and then decided to attend General Assembly's Software Engineering Immersive at the end of 2019. I've worked at Vanguard in Australia and Envato before moving back to the states.
 
 ## Current Project
 
-2021 - I created a [Discord Bot](https://github.com/nikkiricks/discord-bot) for my friends and hosted it on Heroku.
+2022 - TBD - Researching how to take down 4chan
 
 ## Past Projects
+
+2021 - I created a [Discord Bot](https://github.com/nikkiricks/discord-bot) for my friends and hosted it on Heroku.
 
 2020 - I created a MERN stack [anti-racism site](https://github.com/nikkiricks/anti-racism-work) where I track my learning, resources, actions, and donations. This work is really important to me as an intersectional feminist.
 
