@@ -1,10 +1,6 @@
 # Oh heeeyyyyyyyy there
 
-Hi! Welcome! I'm Nikki. I'm a Software Engineer at Dutchie in Portland, Oregon. I started learning how to code in early 2019 and then decided to attend General Assembly's Software Engineering Immersive at the end of 2019. I've worked at Vanguard in Australia and Envato before moving back to the states.
-
-## Current Project
-
-2022 - TBD - Researching how to take down 4chan
+Hi! Welcome! I'm Nikki. I'm a Software Engineer at 2U and live in Portland, Oregon. I started learning how to code in early 2019 and then decided to attend General Assembly's Software Engineering Immersive at the end of 2019. I've worked at Vanguard in Australia and Envato before moving back to the states.
 
 ## Past Projects
 
@@ -13,11 +9,6 @@ Hi! Welcome! I'm Nikki. I'm a Software Engineer at Dutchie in Portland, Oregon. 
 2020 - I created a MERN stack [anti-racism site](https://github.com/nikkiricks/anti-racism-work) where I track my learning, resources, actions, and donations. This work is really important to me as an intersectional feminist.
 
 2019 - Some of my favorite projects I've working on was with hardware. You can see my [intro repo to NodeBots](https://github.com/nikkiricks/Node_Bots) and a ["phone" with NodeBots](https://github.com/nikkiricks/Sloane-Phone-Node) and this is a [repo](https://github.com/nikkiricks/Sloane-Phone-Arduino) I created using Arduino IDE.
-
-### Social Media
-
-[Twitter](https://twitter.com/nikkiricks) |
-[LinkedIn](https://www.linkedin.com/in/nikki-ricks/)
 
 ### Writing
 
@@ -30,3 +21,5 @@ Or some articles about my experience:
 - [A Recap of My Software Engineering Immersive Experience at General Assembly — in 12 Tweets](https://medium.com/dev-genius/a-recap-of-my-software-engineering-immersive-experience-at-general-assembly-in-12-tweets-d750fa95c766) 
 - [How is your time spent in a tech bootcamp, exactly?](https://medium.com/dev-genius/how-is-your-time-spent-in-a-tech-bootcamp-exactly-6d2e1911a3fd) 
 - [What my post-software engineering bootcamp 3 month job search looked like](https://medium.com/dev-genius/what-my-post-software-engineering-bootcamp-3-month-job-search-looked-like-d037d474093d)
+
+Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/nikki-ricks/)
