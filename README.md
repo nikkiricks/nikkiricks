@@ -1,12 +1,12 @@
 # Oh heeeyyyyyyyy there
 
-Hi! Welcome! I'm Nikki. I'm a Software Engineer at 2U and live in Portland, Oregon. I started learning how to code in early 2019 and then decided to attend General Assembly's Software Engineering Immersive at the end of 2019. I've worked at Vanguard in Australia and Envato before moving back to the states.
+Hi! Welcome! I'm Nikki. I'm a Software Engineer at 2U and live in Portland, Oregon. I started learning how to code in early 2019 and then decided to attend General Assembly's Software Engineering Immersive at the end of 2019. I currently work at 2U - an education tech company. Previously worked at Vanguard in Australia and Envato before moving back to the states.
 
 ## Past Projects
 
 2021 - I created a [Discord Bot](https://github.com/nikkiricks/discord-bot) for my friends and hosted it on Heroku.
 
-2020 - I created a MERN stack [anti-racism site](https://github.com/nikkiricks/anti-racism-work) where I track my learning, resources, actions, and donations. This work is really important to me as an intersectional feminist.
+2020 - I created a MERN stack [anti-racism site](https://github.com/nikkiricks/anti-racism-work) which has the ability to track learning, resources, actions, and donations.
 
 2019 - Some of my favorite projects I've working on was with hardware. You can see my [intro repo to NodeBots](https://github.com/nikkiricks/Node_Bots) and a ["phone" with NodeBots](https://github.com/nikkiricks/Sloane-Phone-Node) and this is a [repo](https://github.com/nikkiricks/Sloane-Phone-Arduino) I created using Arduino IDE.
 
