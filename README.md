@@ -5,9 +5,13 @@ Hi! Welcome! I'm Nikki. I'm a Software Engineer at 2U and live in Portland, Oreg
 ## Past Work Experience
 
 2023 - 2025 -> 2U
+
 2022 -> Dutchie
+
 2020 - 2022 -> Envato
+
 2020 -> Vanguard
+
 
 I started to code in 2019 and decided to attend General Assembly's Software Engineering Immersive. 
 
