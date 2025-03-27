@@ -1,8 +1,15 @@
 # Oh heeeyyyyyyyy there
 
-Hi! Welcome! I'm Nikki. I'm a Software Engineer at 2U and live in Portland, Oregon. I started learning how to code in early 2019 and then decided to attend General Assembly's Software Engineering Immersive at the end of 2019. I currently work at 2U - an education tech company. Previously worked at Vanguard in Australia and Envato before moving back to the states.
+Hi! Welcome! I'm Nikki. I'm a Software Engineer at 2U and live in Portland, Oregon. I started learning how to code in early 2019 and then decided to attend General Assembly's Software Engineering Immersive at the end of 2019. I was laid off from 2U, an education tech company recently and looking for work. Previously I worked in Australia at Vanguard and Envato before moving back to the states in 2021.
 
-## Past Projects
+## Past Work Experience
+
+2023 - 2025 -> 2U
+2022 -> Dutchie
+2020 - 2022 -> Envato
+2020 -> Vanguard
+
+## Past Tech Projects
 
 2021 - I created a [Discord Bot](https://github.com/nikkiricks/discord-bot) for my friends and hosted it on Heroku.
 
