@@ -1,6 +1,6 @@
 # Oh heeeyyyyyyyy there
 
-Hi! Welcome! I'm Nikki. I'm a Software Engineer at 2U and live in Portland, Oregon. I started learning how to code in early 2019 and then decided to attend General Assembly's Software Engineering Immersive at the end of 2019. I was laid off from 2U, an education tech company recently and looking for work. Previously I worked in Australia at Vanguard and Envato before moving back to the states in 2021.
+Hi! Welcome! I'm Nikki. I'm a Software Engineer at 2U and live in Portland, Oregon. I'm looking for work!
 
 ## Past Work Experience
 
@@ -8,6 +8,8 @@ Hi! Welcome! I'm Nikki. I'm a Software Engineer at 2U and live in Portland, Oreg
 2022 -> Dutchie
 2020 - 2022 -> Envato
 2020 -> Vanguard
+
+I started to code in 2019 and decided to attend General Assembly's Software Engineering Immersive. 
 
 ## Past Tech Projects
 
