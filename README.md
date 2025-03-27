@@ -1,6 +1,6 @@
 # Oh heeeyyyyyyyy there
 
-Hi! Welcome! I'm Nikki. I'm a Software Engineer at 2U and live in Portland, Oregon. I'm looking for work!
+Hi! Welcome! I'm Nikki. I'm a Software Engineer at 2U and live in Portland, Oregon. I'm looking for work! Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/nikki-ricks/)
 
 ## Past Work Experience
 
@@ -15,7 +15,7 @@ Hi! Welcome! I'm Nikki. I'm a Software Engineer at 2U and live in Portland, Oreg
 
 I started to code in 2019 and decided to attend General Assembly's Software Engineering Immersive. 
 
-## Past Tech Projects
+## Tech Projects
 
 2021 - I created a [Discord Bot](https://github.com/nikkiricks/discord-bot) for my friends and hosted it on Heroku.
 
@@ -23,7 +23,7 @@ I started to code in 2019 and decided to attend General Assembly's Software Engi
 
 2019 - Some of my favorite projects I've working on was with hardware. You can see my [intro repo to NodeBots](https://github.com/nikkiricks/Node_Bots) and a ["phone" with NodeBots](https://github.com/nikkiricks/Sloane-Phone-Node) and this is a [repo](https://github.com/nikkiricks/Sloane-Phone-Arduino) I created using Arduino IDE.
 
-### Writing
+## Writing
 
 Here are some of my technical articles:
 - [MERN Part I: Building RESTful APIs with Node.js and Express](https://medium.com/weekly-webtips/building-restful-apis-with-node-js-and-express-a9f648219f5b)
@@ -34,5 +34,3 @@ Or some articles about my experience:
 - [A Recap of My Software Engineering Immersive Experience at General Assembly — in 12 Tweets](https://medium.com/dev-genius/a-recap-of-my-software-engineering-immersive-experience-at-general-assembly-in-12-tweets-d750fa95c766) 
 - [How is your time spent in a tech bootcamp, exactly?](https://medium.com/dev-genius/how-is-your-time-spent-in-a-tech-bootcamp-exactly-6d2e1911a3fd) 
 - [What my post-software engineering bootcamp 3 month job search looked like](https://medium.com/dev-genius/what-my-post-software-engineering-bootcamp-3-month-job-search-looked-like-d037d474093d)
-
-Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/nikki-ricks/)
