@@ -1,6 +1,6 @@
 # Oh heeeyyyyyyyy there
 
-Hi! Welcome! I'm Nikki. I'm a Software Engineer at 2U and live in Portland, Oregon. I'm looking for work! Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/nikki-ricks/)
+Hi! Welcome! I'm Nikki. I live in Portland, Oregon. I'm looking for work! Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/nikki-ricks/)
 
 ## Past Work Experience
 
@@ -17,7 +17,7 @@ I started to code in 2019 and decided to attend General Assembly's Software Engi
 
 ## Tech Projects
 
-2025 - [Forgotten]([url](https://github.com/nikkiricks/forgotten)) - Data Deletion starting with LinkedIn
+2025 - [Forgotten](https://github.com/nikkiricks/forgotten) - Data Deletion starting with LinkedIn
 
 2021 - [Discord Bot](https://github.com/nikkiricks/discord-bot) for my friends and hosted it on Heroku.
 
