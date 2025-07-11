@@ -17,9 +17,11 @@ I started to code in 2019 and decided to attend General Assembly's Software Engi
 
 ## Tech Projects
 
-2021 - I created a [Discord Bot](https://github.com/nikkiricks/discord-bot) for my friends and hosted it on Heroku.
+2025 - [Forgotten]([url](https://github.com/nikkiricks/forgotten)) - Data Deletion starting with LinkedIn
 
-2020 - I created a MERN stack [anti-racism site](https://github.com/nikkiricks/anti-racism-work) which has the ability to track learning, resources, actions, and donations.
+2021 - [Discord Bot](https://github.com/nikkiricks/discord-bot) for my friends and hosted it on Heroku.
+
+2020 - MERN stack [anti-racism site](https://github.com/nikkiricks/anti-racism-work) which has the ability to track learning, resources, actions, and donations.
 
 2019 - Some of my favorite projects I've working on was with hardware. You can see my [intro repo to NodeBots](https://github.com/nikkiricks/Node_Bots) and a ["phone" with NodeBots](https://github.com/nikkiricks/Sloane-Phone-Node) and this is a [repo](https://github.com/nikkiricks/Sloane-Phone-Arduino) I created using Arduino IDE.
 
