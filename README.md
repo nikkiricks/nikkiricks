@@ -4,6 +4,8 @@ Hi! Welcome! I'm Nikki. I live in Portland, Oregon. I'm looking for work! Feel f
 
 ## Past Work Experience
 
+2026 -> Ricks Civics
+
 2023 - 2025 -> 2U
 
 2022 -> Dutchie
